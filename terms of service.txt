@@ -1,54 +1,27 @@
-Link Inspector Terms of Service
+TERMS OF SERVICE
 
-By using Link Inspector, you agree to these Terms of Service ("TOS"). We recommend you read them carefully.
+By using the "Link Inspector" Discord bot, you agree to the following terms and conditions:
 
-1. Services Offered
+1. Use of the Bot: You agree to use the "Link Inspector" bot for its intended purpose only, which is to analyze links and provide a detailed report about the link, including information such as the destination URL, IP address, nameserver, and other relevant details.
 
-Link Inspector is a Discord bot that analyzes URLs you provide. It offers a detailed report, including:
+2. User Responsibility: You are solely responsible for the links you input into the bot. The bot is not responsible for any consequences that may arise from analyzing or accessing any links.
 
-* Potential landing page of the link
-* IP address associated with the link
-* Nameserver information
-* And other relevant details (specify any additional features here)
+3. No Illegal or Harmful Use: You agree not to use the bot for any illegal or harmful purposes, including but not limited to:
+   - Accessing or attempting to access unauthorized or illegal content
+   - Engaging in phishing, spamming, or other malicious activities
+   - Violating the terms of service or privacy policies of any websites or services
+   - Attempting to harm or disrupt the bot or its operation
 
-2. User Conduct
+4. No Warranties: The bot is provided "as is" without any warranties or guarantees, express or implied. The bot's developers make no representations or warranties regarding the accuracy, completeness, or reliability of the information provided by the bot.
 
-* You agree to use Link Inspector for lawful purposes only.
-* You will not submit malicious or harmful links.
-* You are responsible for ensuring the links you submit comply with Discord's Terms of Service. 
-* You agree not to use Link Inspector to spam or harass others.
-* You agree not to misuse Link Inspector by attempting to disrupt its operation or functionality.
+5. Limitation of Liability: The bot's developers shall not be liable for any damages, losses, or expenses arising out of or in connection with the use of the bot, including but not limited to:
+   - Direct, indirect, incidental, special, or consequential damages
+   - Loss of profits, data, or business opportunities
+   - Damages resulting from the use of the bot or the information provided by the bot
+   - Damages resulting from any viruses, malware, or other harmful elements associated with the bot
 
-3. Disclaimer
+6. Changes to the Terms: The bot's developers reserve the right to modify these Terms of Service at any time. Your continued use of the bot after any changes constitutes your acceptance of the new Terms of Service.
 
-* Link Inspector's analysis is for informational purposes only and should not be considered foolproof.
-* The accuracy of the information provided by Link Inspector depends on the availability and accuracy of data from external sources.
-* We make no guarantees about the safety or legitimacy of the links you analyze.
-* You are responsible for exercising caution and judgment before clicking on any link.
+7. Governing Law and Jurisdiction: These Terms of Service shall be governed by and construed in accordance with the laws of [insert jurisdiction]. Any disputes arising out of or in connection with these Terms of Service shall be subject to the exclusive jurisdiction of the courts of [insert jurisdiction].
 
-4. Limitation of Liability
-
-* We are not liable for any damages or losses arising from your use of Link Inspector.
-* This includes, but is not limited to, damages caused by:
-    * Misleading or inaccurate information provided by Link Inspector.
-    * Clicking on malicious links you analyze using Link Inspector.
-    * Disruptions or outages of Link Inspector's service.
-
-5. Privacy Policy
-
-* We respect your privacy. Please refer to our separate Privacy Policy for details on how we collect and use your data.
-
-6. Modifications to TOS
-
-* We reserve the right to modify these TOS at any time.
-* We will notify you of any changes by posting the updated TOS on the Discord server or through announcements.
-* Your continued use of Link Inspector following the posting of revised TOS constitutes your acceptance of the changes.
-
-7. Termination
-
-* We may terminate your access to Link Inspector at any time for violation of these TOS.
-
-8. Governing Law
-
-* These TOS are governed by and construed in accordance with the laws of Algeria.
-
+By using the "Link Inspector" bot, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you do not agree to these Terms of Service, you must cease using the bot immediately.
