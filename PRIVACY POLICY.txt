@@ -1,0 +1,27 @@
+Privacy Policy for Link Inspector Bot
+
+# Introduction
+Welcome to Link Inspector, a Discord bot designed to analyze links and provide detailed reports about the links. This privacy policy outlines how we collect, use, and disclose your personal information when you interact with our bot.
+
+# Information We Collect or Don't
+When you interact with Link Inspector, we may collect the following information:
+
+1. User Input: The bot collects the links you provide for analysis but doesn't save them.
+2. Discord ID: We do not store any IDs because we simply don't need them
+3. IP Address and Device Information: we do not save any IP addresses whatsoever
+
+
+1. To Comply with Legal Obligations: We may share your information with law enforcement agencies or regulatory authorities to comply with legal obligations.
+2. To Protect Our Rights: We may share your information to protect our rights or the rights of our users.
+
+# Data Retention
+We do not retain your information at all
+
+# Security
+We have no data saved from users so we only focus about the security of the bot from being hacked that's all
+
+# Contact Us
+If you have any questions about this privacy policy, please contact us at contact@octoseek.com
+
+# Changes to this Privacy Policy
+We may update this privacy policy from time to time. The updated version will be posted on our website, and we will notify you of any significant changes.
