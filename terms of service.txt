@@ -1,0 +1,54 @@
+Link Inspector Terms of Service
+
+By using Link Inspector, you agree to these Terms of Service ("TOS"). We recommend you read them carefully.
+
+1. Services Offered
+
+Link Inspector is a Discord bot that analyzes URLs you provide. It offers a detailed report, including:
+
+* Potential landing page of the link
+* IP address associated with the link
+* Nameserver information
+* And other relevant details (specify any additional features here)
+
+2. User Conduct
+
+* You agree to use Link Inspector for lawful purposes only.
+* You will not submit malicious or harmful links.
+* You are responsible for ensuring the links you submit comply with Discord's Terms of Service. 
+* You agree not to use Link Inspector to spam or harass others.
+* You agree not to misuse Link Inspector by attempting to disrupt its operation or functionality.
+
+3. Disclaimer
+
+* Link Inspector's analysis is for informational purposes only and should not be considered foolproof.
+* The accuracy of the information provided by Link Inspector depends on the availability and accuracy of data from external sources.
+* We make no guarantees about the safety or legitimacy of the links you analyze.
+* You are responsible for exercising caution and judgment before clicking on any link.
+
+4. Limitation of Liability
+
+* We are not liable for any damages or losses arising from your use of Link Inspector.
+* This includes, but is not limited to, damages caused by:
+    * Misleading or inaccurate information provided by Link Inspector.
+    * Clicking on malicious links you analyze using Link Inspector.
+    * Disruptions or outages of Link Inspector's service.
+
+5. Privacy Policy
+
+* We respect your privacy. Please refer to our separate Privacy Policy for details on how we collect and use your data.
+
+6. Modifications to TOS
+
+* We reserve the right to modify these TOS at any time.
+* We will notify you of any changes by posting the updated TOS on the Discord server or through announcements.
+* Your continued use of Link Inspector following the posting of revised TOS constitutes your acceptance of the changes.
+
+7. Termination
+
+* We may terminate your access to Link Inspector at any time for violation of these TOS.
+
+8. Governing Law
+
+* These TOS are governed by and construed in accordance with the laws of Algeria.
+
